@@ -1,16 +1,8 @@
-# e_commerce_app
+# Nike Shopping App [Clone]
 
-A new Flutter project.
+Here's my new Flutter project!
 
-## Getting Started
+## Why a clone?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project was done for getting a hang of some decent UI design.
+I will soon be implementing a functional "Add to cart" feature in the near future.
